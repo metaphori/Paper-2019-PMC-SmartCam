@@ -1,0 +1,15 @@
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+latex.pdf
+*.synctex.gz
+*.toc
+.idea/
+.ide/
+.gradle/
+*.kate-swp
+elsarticle-template.pdf
+elsarticle-template.spl
+elsarticle.cls
