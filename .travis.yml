@@ -1,5 +1,5 @@
 official-repo: &official-repo
-  DanySK/Template-Elsevier-Article
+  DanySK/Paper-2019-PMC-SmartCam
 language: java
 addons:
   apt:
