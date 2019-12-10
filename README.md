@@ -1,6 +1,6 @@
 # LaTeX template repository with continuous integration for Elsevier journals
 
-[![Build Status](https://travis-ci.org/DanySK/Paper-2019-PMC-SmartCam.svg?branch=master)](https://travis-ci.org/DanySK/Paper-2019-PMC-SmartCam)
+[![Build Status](https://travis-ci.com/DanySK/Paper-2019-PMC-SmartCam.svg?branch=master)](https://travis-ci.com/DanySK/Paper-2019-PMC-SmartCam)
 
 This repository is meant to be used as template for quickly starting LaTeX papers to be submitted to Elsevier Journals.
 All the code from the template is subject to the license of the aforementioned template.
